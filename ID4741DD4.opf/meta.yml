@@ -1,0 +1,36 @@
+id: ID4741DD4
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T22:24:35.106072'
+last_modified: '2022-06-18T22:24:35.106086'
+parser: null
+source_metadata:
+  title: sGra tshad pa Rin chen rnam rgyals (1318–1388) Sakya Genealogy
+  author: སྒྲ་ཚད་པ་རིན་ཆེན་རྣམ་རྒྱལ།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2018-09-06);
+    revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Lobsang Gyaltsen, Dharamsala (lg)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/2435
+  bases:
+    028e:
+      title: sGra tshad pa Rin chen rnam rgyals (1318–1388) Sakya Genealogy
+      order: 1
+      base_file: 028e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
